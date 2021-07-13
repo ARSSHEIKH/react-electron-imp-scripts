@@ -6,7 +6,7 @@ react+electron important scripts to for start both desktop and web same time (on
    #### inside the devDependencies
 
       "devDependencies": {
-        "concurrently": "^6.0.2",
+        "concurrently": "^6.0.2",  // or current version
       }
       
 ## Step # 02
